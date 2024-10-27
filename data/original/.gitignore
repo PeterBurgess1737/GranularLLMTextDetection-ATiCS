@@ -1,0 +1,6 @@
+# Ignore everything
+*
+# But me
+!.gitignore
+# And the explanation file
+!put 'Human vs LLM Text Corpus' here

@@ -1,0 +1,4 @@
+fast-detect-gpt/*
+cache/*
+api_key.txt
+*__pycache__*
