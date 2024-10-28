@@ -2,3 +2,4 @@ fast-detect-gpt/*
 cache/*
 api_key.txt
 *__pycache__*
+fast-detect-gpt/
